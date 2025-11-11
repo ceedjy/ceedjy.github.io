@@ -1,6 +1,11 @@
 {
-    "dial": ["Ma fille est morte ! Et c'est de ta faute, tu n'as même pas su la protéger !",
-                        "Va la chercher, descend jusqu'aux Enfers si tu es brave ! Et j'espère que tu finiras au Tartar !", 
-                        "Si tu em demande je ne sais pas comment y aller. Tu peux toujours demander au meunier, il est plus proche des dieux que moi.",
-                        "Aller va t'en, je ne veux plus jamais te revoir gendre de pacotille !"]
+  "dial": [
+    "Ma fille est morte ! Et c'est de ta faute, tu n'as même pas su la protéger !",
+    "Va la chercher, descend jusqu'aux Enfers si tu es brave ! Et j'espère que tu finiras au Tartare !",
+    "Si tu me demandes, je ne sais pas comment y aller. Tu peux toujours demander au meunier, il est plus proche des dieux que moi.",
+    "Aller va t'en, je ne veux plus jamais te revoir, gendre de pacotille !"
+  ],
+  "dial2": [
+    "Dégage ! Je ne veux plus te voir !"
+  ]
 }
