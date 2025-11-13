@@ -1,9 +1,9 @@
 {
-    "dial": ["Bonjour mortel. Que em veut tu ?",
-            "Oh attend ! Tu est Orphée le lache ? Hahaha ! Tu n'a même pas réussi a la sauver d'un serpent !", 
+    "dial": ["Bonjour mortel. Que me veut tu ?",
+            "Oh attend ! Tu est Orphée le lache ? Hahaha ! Tu n'a même pas réussi à la sauver d'un serpent !", 
             "J'imagine que tu viens me voir pour savoir comment la récupérer n'est-ce pas ?",
-            "Tu as de la chance, je suis de bonne humeur. Raporte moi ma lyre et je te dis ce que tu as besoin de savoir.", 
-            "Aller va retrouver ma lyre. N'oublie aps que c'est pour sauver ta femme."],
+            "Tu as de la chance, je suis de bonne humeur. Rapporte moi ma lyre et je te dis ce que tu as besoin de savoir.", 
+            "Elle doit être quelque part dans la forêt. Bon courage."],
     "dial2": ["Oh wow tu l'a retrouvé ! Merci beaucoup mortel !", 
             "Très bien. ce que tu as besoin de savoir c'est que je ne sais pas exactement comment rentrer dans les enfers.", 
             "Mais les dieux promordiaux eux savent. Tu as de la chance, Poséidon va bientot passer au port.", 
