@@ -1,8 +1,9 @@
 {
-    "dial": ["Ahh c'est toi Orphée le lache ? Tu as sacrément une mauvaise réputation. Il parait que tu as laissé ta femme se faire tuer sans rien faire.",
+    "dial": ["Ah c'est toi Orphée le lâche ? Tu as sacrément une mauvaise réputation. Il paraît que tu as laissé ta femme se faire tuer sans rien faire.",
             "Tu viens me voir pour savoir comment la récupérer hein ? J'imagine qu'elle doit déjà être sur la barque de charon à l'heure qu'il est.", 
-            "Tu sais petit c'est dangereux de défier les moires. Mais si tu veux vraiment la récupérer il ta faut un dieu.",
-            "Justement, il parait qu'un dieu rôde dans la forêt ces temps ci. Si tu le trouve il pourra peut-être t'aider.", 
-            "Aller va t'en. Va sauver ta femme. Enfin, ta future femme."],
-    "dial2": ["Aller, va retrouver le dieu, il pourra t'aider."]
+            "Tu sais petit c'est dangereux de défier les moires. Mais si tu veux vraiment la récupérer il te faut un dieu.",
+            "Justement, il paraît qu'un dieu rôde dans la forêt ces temps-ci. Si tu le trouves, il pourra peut-être t'aider.", 
+            "Aller vas t'en. Vas sauver ta femme. Enfin, ta future femme."],
+    "dial2": ["Aller, vas retrouver le dieu, il pourra t'aider."]
+
 }
