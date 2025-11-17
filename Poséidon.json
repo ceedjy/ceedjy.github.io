@@ -1,10 +1,11 @@
 {
-    "dial": ["Oh ! Tu es Orphé le lache ! J'ai beaucoup entendu parlé de toi jeune mortel.", 
-            "Ta réputation te précède. Alors il parait que tu veux aller aux enfers. Et c'est pour cela qu etu viens me voir n'est-ce pas ?",
-            "Dit donc petit, tu n'essaierai pas de faire une nouvelle titanomahcie n'est-ce pas ?", 
-            "HAHAHAHAHA je plaisante ne t'en fait pas ! Un mortel est beaucoup trop faible pour déclancher une guerre !",
-            "Tu as de la chance je suis d'humeur aujourd'hui. Retrouve moi mon trident et je te dirai tout ce que tu as besoin de savoir.", 
-            "Elle doit être sur la plage, ou dans la montagne, a moins que je l'ai oublié au fond de l'océan..."],
-    "dial2": ["Wow merci beaucoup de l'avoir retrouvé ! Tu me sauve la vie !", 
-            "Va demander à zeus, il sait mieux que moi.", "Bon courage mortel !"]
+    "dial": ["Oh ! Tu es Orphée le lâche ! J'ai beaucoup entendu parlé de toi jeune mortel.", 
+            "Ta réputation te précède. Alors il paraît que tu veux aller aux Enfers. Et c'est pour cela que tu viens me voir n'est-ce pas ?",
+            "Dis donc petit, tu n'essaierais pas de faire une nouvelle titanomachie n'est-ce pas ?", 
+            "HAHAHAHAHA je plaisante ne t'en fait pas ! Un mortel est beaucoup trop faible pour déclancher une telle guerre !",
+            "Tu as de la chance je suis d'humeur aujourd'hui. Retrouves mon trident et je te dirais tout ce que tu as besoin de savoir.", 
+            "Il doit être sur la plage, ou dans la montagne, à moins que je l'ai oublié au fond de l'océan..."],
+    "dial2": ["Wow merci beaucoup de l'avoir retrouvé ! Tu me sauves la vie !", 
+            "Vas demander à Zeus, il sait mieux que moi.", "Bon courage mortel !"]
+
 }
